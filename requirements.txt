@@ -1,0 +1,5 @@
+pyqt6
+pyqt6-tools
+pyqt5designer
+cvzone==1.4.1
+pyfirmata
